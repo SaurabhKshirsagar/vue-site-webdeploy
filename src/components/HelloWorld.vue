@@ -10,7 +10,7 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg: 'Welcome to Bitpod  123'
+      msg: 'Welcome to paragyte'
     }
   }
 }
