@@ -6,7 +6,7 @@
   "siteId": "HyC-jbvSz",
   "schemaVersion": "0.1",
 
-  "deployPath": "/deploy",
+  "deployPath": "/dist",
    "bitpodapiURL": "https://pd.bitpod.io/api",
   "routes": [
     {
