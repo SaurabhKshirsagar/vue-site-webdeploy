@@ -1,0 +1,18 @@
+{
+  
+  "token": "92b5a3ee8571a3929011fda30a31bc1a6b21795b68ca335085a53ec07d8aff28",
+  "appId": "builder",
+  "instanceId": "rkux24G4M",
+  "siteId": "Hk3aoBfVM",
+  "schemaVersion": "0.1",
+  
+  "deployPath": "/dist",
+  "bitpodapiURL": "https://pd.bitpod.io/api",
+  "routes": [
+    {
+      "key": "*",
+      "value": "/index.html",
+      "_id": "5a54cbc48eeacf00074f4eab"
+    }
+  ]
+}
