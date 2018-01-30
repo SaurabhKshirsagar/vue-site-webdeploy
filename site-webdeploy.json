@@ -1,18 +1,15 @@
 {
- 
-  "token": "bb709b70a1ef79eb0019ca9dc5c43dc47fb9e96802f54dc393a8b77ca8362895",
+  "schemaVersion": "0.1",
   "appId": "builder",
   "instanceId": "Sy3es-DBf",
   "siteId": "HyC-jbvSz",
-  "schemaVersion": "0.1",
-
+  "token": "bb709b70a1ef79eb0019ca9dc5c43dc47fb9e96802f54dc393a8b77ca8362895",
   "deployPath": "/dist",
-   "bitpodapiURL": "https://pd.bitpod.io/api",
+  "bitpodapiURL": "https://dev.p10.io/api",
   "routes": [
     {
       "key": "*",
-      "value": "/index.html",
-      "_id": "5a698b06dfb8e20008f01c53"
+      "value": "/index.html"
     }
   ]
 }
