@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-    <h2>Vue site webdeploy dev test</h2>
+    <h2>Vue site webdeploy dev test 01</h2>
   </div>
 </template>
 
