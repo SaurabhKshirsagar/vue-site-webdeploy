@@ -5,7 +5,7 @@
   "siteId": "HyC-jbvSz",
   "token": "bb709b70a1ef79eb0019ca9dc5c43dc47fb9e96802f54dc393a8b77ca8362895",
   "deployPath": "/dist",
-  "bitpodapiURL": "https://dev.p10.io/api",
+  "bitpodApiURL": "https://dev.p10.io/api",
   "routes": [
     {
       "key": "*",
