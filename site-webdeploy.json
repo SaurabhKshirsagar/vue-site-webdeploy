@@ -1,9 +1,9 @@
 {
-  "schemaVersion": "0.1",
-  "appId": "builder",
-  "instanceId": "Sy3es-DBf",
-  "siteId": "HyC-jbvSz",
-  "token": "bb709b70a1ef79eb0019ca9dc5c43dc47fb9e96802f54dc393a8b77ca8362895",
+"schemaVersion": "0.1",
+"appId": "builder",
+"instanceId": "HyER0AABM",
+"siteId": "rJ83yJkIf",
+"token": "8ed034eba34b9baf0aeaec27e05da62d072c7dbd717ea93f9feb68691e1a4c64",
   "deployPath": "/dist",
   "bitpodApiURL": "https://dev.p10.io/api",
   "routes": [
